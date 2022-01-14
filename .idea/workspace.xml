@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6504f41e-8474-4930-9b5b-84bbe48dbcf2" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/Introducao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introducao/aula10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introducao/aula11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introducao/aula11_personalizar_excecao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introducao/aula12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula7_calculadora1.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula7_calculadora1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula7_televisao.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula7_televisao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introducao/aula1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introducao/aula2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introducao/aula3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introducao/aula4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introducao/aula5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introducao/aula6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula7_calculadora1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introducao/aula7_calculadora1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula7_calculadora2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introducao/aula7_calculadora2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula7_televisao.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introducao/aula7_televisao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula8_contador_letras.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introducao/aula8_contador_letras.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula8_importacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introducao/aula8_importacao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula8_lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introducao/aula8_lambda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introducao/aula9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +56,9 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="23YwkdeeZpscpWggKPJTJofkDcD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,8 +67,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.aula9">
-    <configuration name="aula7_televisao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tatia\Documents\Python\Introducao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.aula12">
+    <configuration name="aula10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,7 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula7_televisao.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\tatia\Documents\Python\aula10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula8_contador_letras" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula8_contador_letras.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\tatia\Documents\Python\aula11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula8_importacao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula11_personalizar_excecao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introducao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula8_importacao.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\tatia\Documents\Python\aula11_personalizar_excecao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula8_lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Introducao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula8_lambda.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\tatia\Documents\Python\aula12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +169,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula9.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\tatia\Documents\Python\aula9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula12" />
+        <item itemvalue="Python.aula11_personalizar_excecao" />
+        <item itemvalue="Python.aula11" />
+        <item itemvalue="Python.aula10" />
         <item itemvalue="Python.aula9" />
-        <item itemvalue="Python.aula8_lambda" />
-        <item itemvalue="Python.aula8_importacao" />
-        <item itemvalue="Python.aula8_contador_letras" />
-        <item itemvalue="Python.aula7_televisao" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642101851290</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="First Commit">
+      <created>1642173190108</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642173190108</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

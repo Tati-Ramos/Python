@@ -36,10 +36,10 @@ def media_notas(nome_arquivo):
 
 def copia_arquivo(nome_arquivo):
     import shutil
-    shutil.copy(nome_arquivo, 'C:/Users/tatia/Documents/Python/notas_alunos.txt')
+    shutil.copy(nome_arquivo, '/notas_alunos.txt')
 
 def move_arquivo(nome_arquivo):
-    shutil.move(nome_arquivo, 'C:/Users/tatia/Documents/Python/')
+    shutil.move(nome_arquivo, '//')
 
 if __name__ == '__main__':
     move_arquivo('notas.txt')
