@@ -1,0 +1,3 @@
+Rafael, 10, 10, 5, 5
+Tatiane, 7, 10, 8, 9
+Mayara, 8, 5, 6, 9
