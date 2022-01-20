@@ -36,7 +36,7 @@ def media_notas(nome_arquivo):
 
 def copia_arquivo(nome_arquivo):
     import shutil
-    shutil.copy(nome_arquivo, '/notas_alunos.txt')
+    shutil.copy(nome_arquivo, '../notas_alunos.txt')
 
 def move_arquivo(nome_arquivo):
     shutil.move(nome_arquivo, '//')

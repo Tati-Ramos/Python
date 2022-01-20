@@ -1,7 +1,7 @@
 
 lista = [1, 10]
 try:
-    arquivo = open('teste.txt', 'r')
+    arquivo = open('../teste.txt', 'r')
     texto = arquivo.read()
     divisao = 10 / 1
     numero = lista[1]
