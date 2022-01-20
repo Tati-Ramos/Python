@@ -1,4 +1,8 @@
-### Introdução à programação com Python.
+- Introdução à programação com Python.
+- Desenvolvimento para Internet e Banco de Dados com Python e Django.
 
-Fonte: Digital Innovation One
+
+
+
+_Fonte: Digital Innovation One_
 
