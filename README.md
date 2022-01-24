@@ -14,6 +14,7 @@
 
 #### [Desenvolvimento para Internet e Banco de Dados com Python e Django:](https://github.com/Tati-Ramos/Python/tree/master/agenda)
  - Estrutura Básica e Introdução a Banco de Dados com o Django-Admin
+ - Criando tabelas com models
  - Criando uma página de listagem
  - Autenticação e Insersação de Dados
  - Autentição, login e decoradores
