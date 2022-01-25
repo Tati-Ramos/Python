@@ -16,7 +16,6 @@
  - Estrutura Básica e Introdução a Banco de Dados com o Django-Admin
  - Criando tabelas com models
  - Criando uma página de listagem
- - Autenticação e Insersação de Dados
  - Autentição, login e decoradores
  - Realizando inserção de dados
  - Realizando alteração e exclusão de dados
