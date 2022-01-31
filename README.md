@@ -26,6 +26,9 @@
    * [Ping Simples](https://github.com/Tati-Ramos/Python/tree/master/pingsimples) <br>
    * [Ping Múltiplo](https://github.com/Tati-Ramos/Python/tree/master/pingmultiplo)
  - Introdução a Socket e Cliente TCP/UDP e Server
+   * Desenvolvimento de um cliente TCP
+   * Desenvolvimento de um cliente UDP
+   * Desenvolvimento de um cliente Server
  - Desenvolvimento de Ferramentas
 
 
