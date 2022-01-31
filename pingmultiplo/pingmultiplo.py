@@ -1,9 +1,9 @@
 import os
-import time
+import time #tempo de execução
 
 with open('hosts.txt') as file:
-    dump = file.read()
-    dump = dump.splitlines()
+    dump = file.read() # leia o arquivo
+    dump = dump.splitlines() # dump em linhas separadas
 
     for ip in dump:
         print('Verificando o ip: ', ip)
