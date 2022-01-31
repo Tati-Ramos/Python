@@ -10,4 +10,4 @@ with open('hosts.txt') as file:
         print('-' * 60)
         os.system('ping -n 2 {}'.format(ip))
         print('-' * 60)
-        time.sleep(5)
+        time.sleep(5) # tempo de execução 5s
