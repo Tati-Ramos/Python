@@ -21,6 +21,11 @@
  - Realizando alteração e exclusão de dados
  - Filtros, tipos de responses e configurações
 
+#### Segurança da informação com Python
+ - Introdução aos Conceitos de Segurança da Informação e Ping
+ - Introdução a Socket e Cliente TCP/UDP e Server
+ - Desenvolvimento de Ferramentas
+
 
 
 
