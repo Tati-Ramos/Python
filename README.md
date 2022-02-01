@@ -30,6 +30,10 @@
    * [Desenvolvimento de um cliente UDP](https://github.com/Tati-Ramos/Python/tree/master/clienteserverUDP)
    * [Desenvolvimento de um cliente Server](https://github.com/Tati-Ramos/Python/tree/master/clienteserverUDP)
  - Desenvolvimento de Ferramentas
+   * O que é a biblioteca Random, um hash e Multithreading?
+   * Desenvolvendo um gerador de senhas
+   * Desenvolvendo um compadorador de Hashes
+   * Trabalhando com Threads e IP's
 
 
 
