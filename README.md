@@ -30,10 +30,17 @@
    * [Desenvolvimento de um cliente UDP](https://github.com/Tati-Ramos/Python/tree/master/clienteserverUDP)
    * [Desenvolvimento de um cliente Server](https://github.com/Tati-Ramos/Python/tree/master/clienteserverUDP)
  - Desenvolvimento de Ferramentas
-   * O que é a biblioteca Random, um hash e Multithreading?
    * [Desenvolvendo um gerador de senhas](https://github.com/Tati-Ramos/Python/tree/master/geradordesenhas)
    * [Desenvolvendo um compadorador de Hashes](https://github.com/Tati-Ramos/Python/tree/master/comparadordehashes)
    * [Trabalhando com Threads e IP's](https://github.com/Tati-Ramos/Python/tree/master/threadsips)
+   * Desenvolvendo um gerador de Hashes
+   * Desenvolvendo um gerador de Wordlists
+   * Desenvolvendo um Web Scraping
+   * Desenvolvendo um Web Crawler
+   * Desenvolvendo um verificador de telefone
+   * Desenvolvendo um ocultador de arquivos
+   * Desenvolvendo um verificador de IP Externo
+   * Ferramenta Gráfica para abrir o navegador
 
 
 
