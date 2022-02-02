@@ -33,7 +33,7 @@
    * O que é a biblioteca Random, um hash e Multithreading?
    * [Desenvolvendo um gerador de senhas](https://github.com/Tati-Ramos/Python/tree/master/geradordesenhas)
    * [Desenvolvendo um compadorador de Hashes](https://github.com/Tati-Ramos/Python/tree/master/comparadordehashes)
-   * Trabalhando com Threads e IP's
+   * [Trabalhando com Threads e IP's](https://github.com/Tati-Ramos/Python/tree/master/threadsips)
 
 
 
