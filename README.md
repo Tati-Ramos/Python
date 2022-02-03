@@ -33,7 +33,7 @@
    * [Desenvolvendo um gerador de senhas](https://github.com/Tati-Ramos/Python/tree/master/geradordesenhas)
    * [Desenvolvendo um compadorador de Hashes](https://github.com/Tati-Ramos/Python/tree/master/comparadordehashes)
    * [Trabalhando com Threads e IP's](https://github.com/Tati-Ramos/Python/tree/master/threadsips)
-   * Desenvolvendo um gerador de Hashes
+   * [Desenvolvendo um gerador de Hashes](https://github.com/Tati-Ramos/Python/tree/master/gh)
    * Desenvolvendo um gerador de Wordlists
    * Desenvolvendo um Web Scraping
    * Desenvolvendo um Web Crawler
