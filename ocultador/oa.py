@@ -1,6 +1,6 @@
 # ctypes é uma biblioteca de funções externas para Python.
-# Ela fornece tipos de dados compatíveis com C e permite funções de chamada em DLLs ou bibliotecas compartilhadas. Ela pode ser
-# usada para agrupar essas bibliotecas em Python puro.
+# Ela fornece tipos de dados compatíveis com C e permite funções de chamada em DLLs ou bibliotecas compartilhadas.
+#Ela pode ser usada para agrupar essas bibliotecas em Python puro.
 
 import ctypes
 
