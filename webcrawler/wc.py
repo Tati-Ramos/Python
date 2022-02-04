@@ -47,7 +47,7 @@ def create_dictionary(clean_list):
 
     for key, value in sorted(word_count.items(),
                             key = operator.itemgetter(1)):
-        print ("% s : % s " % (key, value))
+        print("% s : % s " % (key, value))
 
     c = Counter(word_count)
 
