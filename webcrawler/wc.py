@@ -1,9 +1,9 @@
 import requests
-from bs4 import BeautifulSoup
-import operator
-from collections import Counter
+from bs4 import BeautifulSoup #extração de dados de arquivos HTML e XML
+import operator #+ - * / not anda
+from collections import Counter #tuplas, dicionários e listas
 
-def start(url)
+def start(url):
 
     wordlist = []
     source_code = requests.get(url).text
@@ -30,7 +30,7 @@ def clean_wordlist(wordlist):
 
         if len(word) > 0:
             clean_list.append(word)
-        create_dictionary(clean_list)
+    create_dictionary(clean_list)
 
 def create_dictionary(clean_list):
     word_count = {}
@@ -41,4 +41,15 @@ def create_dictionary(clean_list):
         else:
             word_count[word] = 1
 
-    for key, value in sorted(word_count.items()
+
+    for key, value in sorted(word_count.items(),
+                            key = operator.itemgetter(1)):
+        print ("% s : % s " % (key, value))
+
+    c = Counter(word_count)
+
+    top = c.most_common(10)
+    print(top)
+
+if __name__ == '__main__':
+    start("https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar")
