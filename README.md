@@ -39,7 +39,7 @@
    * [Desenvolvendo um Web Crawler](https://github.com/Tati-Ramos/Python/tree/master/webcrawler)
    * [Desenvolvendo um verificador de telefone](https://github.com/Tati-Ramos/Python/tree/master/phonenumber)
    * [Desenvolvendo um ocultador de arquivos](https://github.com/Tati-Ramos/Python/tree/master/ocultador)
-   * Desenvolvendo um verificador de IP Externo
+   * [Desenvolvendo um verificador de IP Externo](https://github.com/Tati-Ramos/Python/tree/master/ipexterno)
    * Ferramenta Gráfica para abrir o navegador
 
 
