@@ -1,26 +1,29 @@
-import requests
+import requests #requisação HTTP
 from bs4 import BeautifulSoup #extração de dados de arquivos HTML e XML
-import operator #+ - * / not anda
+import operator #+ - * / not, and, or, etc
 from collections import Counter #tuplas, dicionários e listas
 
-def start(url):
+def start(url):  #start um url
 
-    wordlist = []
+    wordlist = [] #lista vazia #armazena o conteudo da url
     source_code = requests.get(url).text
 
 
-    soup = BeautifulSoup(source_code, 'html.parser')
+    soup = BeautifulSoup(source_code, 'html.parser') # requisição do dados da url e transforma em html
 
+
+    # Text in given web-page is stored under
+    # The <div> tags with class <entry-content>
     for each_text in soup.findAll('div', {'class': 'entry-content'}):
-        content = each_text.text
+        content = each_text.text # transforma em string
 
-        words = content.lower().split()
+        words = content.lower().split() # letras minusculas e cortar o conteúdo
 
         for each_word in words:
             wordlist.append(each_word)
         clean_wordlist(wordlist)
 
-def clean_wordlist(wordlist):
+def clean_wordlist(wordlist): #vai remover simbolos
     clean_list = []
     for word in wordlist:
         symbols = '!@#$%¨¨&*(){}/*+><:<:<%'
@@ -34,7 +37,7 @@ def clean_wordlist(wordlist):
 
 def create_dictionary(clean_list):
     word_count = {}
-
+    # vai fazer uma contagem de palavras mais recorrentes
     for word in clean_list:
         if word in word_count:
             word_count[word] += 1
@@ -48,7 +51,7 @@ def create_dictionary(clean_list):
 
     c = Counter(word_count)
 
-    top = c.most_common(10)
+    top = c.most_common(10) # top 10 com as palavras mais usadas
     print(top)
 
 if __name__ == '__main__':
