@@ -41,6 +41,15 @@
    * [Desenvolvendo um ocultador de arquivos](https://github.com/Tati-Ramos/Python/tree/master/ocultador)
    * [Desenvolvendo um verificador de IP Externo](https://github.com/Tati-Ramos/Python/tree/master/ipexterno)
    * [Ferramenta Gráfica para abrir o navegador](https://github.com/Tati-Ramos/Python/tree/master/openbrowser)
+  
+  - Desenvolvimento avançado Python com Flask e REST API
+    * Utilizando métodos, biblioteca Request e JSON
+    * Desenvolvendo uma Rest Api com completa
+    * Desenvolvendo uma REST API com a extensão Flask-RESTful
+    * Manipulando banco de dados com SQLAlchemy
+    * Rest Api com persistência em banco de dados
+    * Rest Api com autenticação
+ 
 
 
 
