@@ -46,7 +46,7 @@
     * [Instalando Flask, criando ambiente virtual e introdução a Postman](https://github.com/Tati-Ramos/Python/tree/master/hello_flask)
     * [Utilizando métodos, biblioteca Request e JSON](https://github.com/Tati-Ramos/Python/tree/master/first_api)
     * [Desenvolvendo uma Rest Api com completa](https://github.com/Tati-Ramos/Python/tree/master/dev_api)
-    * Desenvolvendo uma REST API com a extensão Flask-RESTful
+    * [Desenvolvendo uma REST API com a extensão Flask-RESTful](https://github.com/Tati-Ramos/Python/tree/master/dev_api)
     * Manipulando banco de dados com SQLAlchemy
     * Rest Api com persistência em banco de dados
     * Rest Api com autenticação
