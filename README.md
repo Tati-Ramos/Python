@@ -43,7 +43,7 @@
    * [Ferramenta Gráfica para abrir o navegador](https://github.com/Tati-Ramos/Python/tree/master/openbrowser)
   
   - Desenvolvimento avançado Python com Flask e REST API
-    * Instalando Flask, criando ambiente virtual e introdução a Postman
+    * [Instalando Flask, criando ambiente virtual e introdução a Postman](https://github.com/Tati-Ramos/Python/tree/master/hello_flask)
     * Utilizando métodos, biblioteca Request e JSON
     * Desenvolvendo uma Rest Api com completa
     * Desenvolvendo uma REST API com a extensão Flask-RESTful
