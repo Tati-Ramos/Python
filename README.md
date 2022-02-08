@@ -49,7 +49,7 @@
     * [Desenvolvendo uma REST API com a extensão Flask-RESTful](https://github.com/Tati-Ramos/Python/tree/master/dev_api)
     * [Manipulando banco de dados com SQLAlchemy](https://github.com/Tati-Ramos/Python/tree/master/api_atividades)
     * [Rest Api com persistência em banco de dados](https://github.com/Tati-Ramos/Python/tree/master/api_atividades)
-    * Rest Api com autenticação
+    * [Rest Api com autenticação](https://github.com/Tati-Ramos/Python/tree/master/dev_api)
  
 
 
